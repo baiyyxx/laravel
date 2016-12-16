@@ -1,1 +1,7 @@
 .idea/
+README.md
+composer.json
+composer.lock
+readme.md
+vendor/
+.env
